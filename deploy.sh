@@ -3,8 +3,8 @@
 # 推送源代码
 git add -A
 git commit -m 'update'
-git config --global user.name  "zhangxin0214"
-git config --global user.email  "zhangxin910214@163.com"
+# git config --global user.name  "zhangxin0214"
+# git config --global user.email  "zhangxin910214@163.com"
 git remote add origin git@github.com:zhangxin0214/develop-Blog.git
 git push -f origin master
 # 构建
