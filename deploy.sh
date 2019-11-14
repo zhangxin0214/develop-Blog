@@ -18,7 +18,7 @@ git add -A
 git commit -m 'deploy'
 git config --global user.name  "xrswx100"
 git config --global user.email  "zhangxin0214@100tal.com"
-git remote add origin https://github.com/xrswx100/test.git
+git remote add origin https://github.com/xrswx100/xes-template-docs.git
 # 推到你仓库的的 gh-page 分支
 # 将 <USERNAME>/<REPO> 替换为你的信息
 git push -f origin master
